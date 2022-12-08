@@ -1,0 +1,26 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "AdventJS challenge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlwarMra/adventjs.git"
+  },
+  "author": "Alwar Müra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlwarMra/adventjs/issues"
+  },
+  "homepage": "https://github.com/AlwarMra/adventjs#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
