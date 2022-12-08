@@ -39,7 +39,7 @@ const cubeOfTwo = createCube(2)
 //  \/_/_/
 ```
 
-Take into account:
+## Things to keep in mind:
 
 - Pay attention to the spaces in the cube.
 - The cube has to be symmetrical.
