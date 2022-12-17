@@ -1,6 +1,6 @@
 const selectSleigh = require('../challenge-12/index.js')
 
-describe('', () => {
+describe('Check for optimal consumptions', () => {
   const sleighs = [
     { name: 'Dasher', consumption: 0.3 },
     { name: 'Dancer', consumption: 0.5 },
